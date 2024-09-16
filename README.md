@@ -15,15 +15,16 @@ Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari 
   ```bash
   git config --global user.name "Nama Anda"
   git config --global user.email "email@contoh.com"
-
+  ```
 
 ## Inisialisasi Repositori Git
 
 1. Buat direktori baru untuk proyek Anda, atau buka direktori proyek yang sudah ada:
 
-  ```bash
+   ```bash
     mkdir dibimbing-belajar-github
     cd dibimbing-belajar-github
+    ```
 
 2. Inisialisasi repositori Git di direktori tersebut :
 
@@ -53,40 +54,37 @@ Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari 
 
 ![alt text](Images/gambar_6.png)
 
-9. Setelah masing-masing branch melakukan proses ya dan sudah di git commit, lakukan proses merge disetiap branch ke branch utama (main) :
+9. Setelah itu balik lagi ke branch master lalu ubah namanya ke main :
 
 ![alt text](Images/gambar_7.png)
 
- - Pada saat proses merge, terjadi conflict pada feature/project_akhir saat di merge lalu untuk mengatasi conflict ya perlu menambahkan git add dan git commit karena ada beberapa data yang belum di simpan ke git local
+10. Lakukan merge pada setiap branch ke branch utama (main) :
 
- ![alt text](Images/gambar_9.1.png)
+![alt text](Images/gambar_8.png)
 
-10. Adapun gambaran dalam bentuk graph atau struktur git local dan melihat semua riwayat commit :
+11. Adapun gambaran dalam bentuk graph atau struktur git local dan melihat semua riwayat commit :
 
 - Diagram git local melalui terminal
-![alt text](Images/gambar_10.png) 
+![alt text](Images/gambar_9.png) 
 
 - Diagram git local melalui Gitlens 
-![alt text](Images/gambar_10.1.png)
+![alt text](Images/gambar_9.1.png)
 
-- Riwayat semua commit 
+12. setelah melakukan merge, selanjutnya membuat repository di cloud atau di github :
+
+![alt text](Images/gambar_10.png)
+
+13. Lakukan git remote untuk terkoneksikan dengan local ke cloud (github) dan push untuk mengirim ke github :
+
 ![alt text](Images/gambar_11.png)
 
-11. setelah melakukan merge, selanjutnya membuat repository di cloud atau di github :
+ 14. Tampilan file sudah masuk ke repository github :
 
 ![alt text](Images/gambar_12.png)
 
-12. Lakukan git remote untuk terkoneksikan dengan local ke cloud (github) dan push untuk mengirim ke github :
+ 15. Setelah dimasukan ke repository github lalu ada perubahan pada README.md dan penambahan gambar :
 
-![alt text](Images/gambar_13.png)
+ ![alt text](Images/gambar_13.png)
 
- 13. Tampilan file sudah masuk ke repository github :
-
-
-
- 14. Setelah dimasukan ke repository github lalu ada perubahan pada README.md dan penambahan gambar :
-
- ![alt text](Images/gambar_7.png)
-
-15. 
+16. 
 

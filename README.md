@@ -17,7 +17,7 @@ Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari 
   git config --global user.email "email@contoh.com"
   ```
 
-## Inisialisasi Repositori Git
+## Tahapan-Tahapan menggunakan Git
 
 1. Buat direktori baru untuk proyek Anda, atau buka direktori proyek yang sudah ada:
 
@@ -86,5 +86,39 @@ Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari 
 
  ![alt text](Images/gambar_13.png)
 
-16. 
+16. Setelah melakukan perubahan, kemudian lakukan push lagi dengan branch yang berbeda untuk melakukan pull. disini saya menamakan feature/add_and_edit :
 
+- setelah berhasil di push, selanjutnya klik url yang ada pada hasil output ya :
+ ![alt text](Images/gambar_14.png)
+
+ 17. Setelah klik url ya akan diarahkan ke repository github yang akan melakukan pull :
+
+- klik compore & pull request
+ ![alt text](Images/gambar_15.png)
+
+ 18. Selanjutnya silakan check kembali perubahan yang dilakukan dan setelah bisa lanjut jika sudah pasti perubahannya :
+
+- Menambahkan gambar
+ ![alt text](Images/gambar_17.png)
+
+- Edit README.md
+ ![alt text](Images/gambar_18.png)
+
+- Silakan klik create pull request (jika sudah yakin ingin dirubah)
+ ![alt text](Images/gambar_16.png)
+
+- Terakhir klik merge pull request dan klik continue pull
+ ![alt text](Images/gambar_19.png)
+
+ 19. Setelah berhasil di klik dan tidak terjadi conflict maka perubahan berhasil
+
+ 20. Jika, ingin mengambil data dari github atau menyalinnya ke local. Jalankan perintah ini di terminal atau cmd :
+
+    ```bash
+    git clone https://github.com/Ajied21/dibimbing-belajar-github.git
+    ```
+
+    *untuk url bisa disesuaikan pada repository yang akan di clone
+
+ ## README.md ini mencakup langkah-langkah dasar untuk menggunakan Git dari instalasi hingga manajemen branch dan push ke repository remote. Anda dapat menyesuaikannya lebih lanjut sesuai kebutuhan spesifik.
+ 

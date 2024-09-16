@@ -1,6 +1,6 @@
-# Panduan Menggunakan Git
+# Assignment Guidance: GIT Repository
 
-Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari instalasi, inisialisasi repositori, hingga melakukan commit dan push ke repository remote seperti GitHub.
+Disini saya menjelaskan langkah-langkah untuk menggunakan Git, mulai dari instalasi, inisialisasi repositori, hingga melakukan commit, push, pull dan clone ke repository remote seperti GitHub.
 
 ## Prasyarat
 
@@ -120,5 +120,5 @@ Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari 
 
    *untuk url bisa disesuaikan pada repository yang akan di clone
 
- ## README.md ini mencakup langkah-langkah dasar untuk menggunakan Git dari instalasi hingga manajemen branch dan push ke repository remote. Anda dapat menyesuaikannya lebih lanjut sesuai kebutuhan spesifik.
+ ## README.md ini mencakup langkah-langkah untuk menggunakan Git dari instalasi hingga manajemen branch, push, pull dan clone ke repository remote. Anda dapat menyesuaikannya lebih lanjut sesuai kebutuhan spesifik.
  

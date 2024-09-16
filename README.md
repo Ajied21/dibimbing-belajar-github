@@ -118,7 +118,7 @@ Panduan ini menjelaskan langkah-langkah dasar untuk menggunakan Git, mulai dari 
     git clone https://github.com/Ajied21/dibimbing-belajar-github.git
     ```
 
-    *untuk url bisa disesuaikan pada repository yang akan di clone
+   *untuk url bisa disesuaikan pada repository yang akan di clone
 
  ## README.md ini mencakup langkah-langkah dasar untuk menggunakan Git dari instalasi hingga manajemen branch dan push ke repository remote. Anda dapat menyesuaikannya lebih lanjut sesuai kebutuhan spesifik.
  

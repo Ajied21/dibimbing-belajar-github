@@ -107,7 +107,7 @@ Disini saya menjelaskan langkah-langkah untuk menggunakan Git, mulai dari instal
 - Silakan klik create pull request (jika sudah yakin ingin dirubah)
  ![alt text](Images/gambar_16.png)
 
-- Terakhir klik merge pull request dan klik continue pull
+- Terakhir klik merge pull request dan klik confirm pull
  ![alt text](Images/gambar_19.png)
 
  19. Setelah berhasil di klik dan tidak terjadi conflict maka perubahan berhasil

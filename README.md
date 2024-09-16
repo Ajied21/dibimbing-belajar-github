@@ -1,5 +1,7 @@
 # Assignment Guidance: GIT Repository
 
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png)
+
 Disini saya menjelaskan langkah-langkah untuk menggunakan Git, mulai dari instalasi, inisialisasi repositori, hingga melakukan commit, push, pull dan clone ke repository remote seperti GitHub.
 
 ## Prasyarat

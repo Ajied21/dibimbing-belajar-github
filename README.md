@@ -116,9 +116,9 @@ Disini saya menjelaskan langkah-langkah untuk menggunakan Git, mulai dari instal
 
  20. Jika, ingin mengambil data dari github atau menyalinnya ke local. Jalankan perintah ini di terminal atau cmd :
 
-    ```bash
+   ```bash
     git clone https://github.com/Ajied21/dibimbing-belajar-github.git
-    ```
+   ```
 
    *untuk url bisa disesuaikan pada repository yang akan di clone
 

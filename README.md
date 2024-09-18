@@ -1,6 +1,6 @@
 # Assignment Guidance: GIT Repository
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png)
+ ![alt text](Logo/Git-Vs-GitHub.png)
 
 Disini saya menjelaskan langkah-langkah untuk menggunakan Git, mulai dari instalasi, inisialisasi repositori, hingga melakukan commit, push, pull dan clone ke repository remote seperti GitHub.
 
@@ -114,13 +114,43 @@ Disini saya menjelaskan langkah-langkah untuk menggunakan Git, mulai dari instal
 
  19. Setelah berhasil di klik dan tidak terjadi conflict maka perubahan berhasil
 
- 20. Jika, ingin mengambil data dari github atau menyalinnya ke local. Jalankan perintah ini di terminal atau cmd :
+ 20. Selanjutnya, dari tim lain ingin mealakukan kolaborasi dengan menambahkan logo dan beberapa gambar tapi sebelumnya harus di clone untuk mengambil data dari github atau menyalinnya ke local mereka. maka, Jalankan perintah ini di terminal atau cmd :
 
    ```bash
     git clone https://github.com/Ajied21/dibimbing-belajar-github.git
    ```
+ *untuk url bisa disesuaikan pada repository yang akan di clone
 
-   *untuk url bisa disesuaikan pada repository yang akan di clone
+- Tampilan sebelum di clone
+ ![alt text](Images/gambar_20.png)
+
+- Setelah di clone
+ ![alt text](Images/gambar_20.1.png)
+
+- Check status pada git ya. apakah sama dengan sebelumnya dan ada beberapa update langsung dari github ya yang dilakukan oleh pemilik akun
+ ![alt text](Images/gambar_20.2.png)
+
+- Diagram dari Gitlens beserta update ya
+ ![alt text](Images/gambar_20.3.png)
+
+21. Setelah menambahkan logo dan bebrapa gambar. Lakukan git add, git commit dan git push ke repository github :
+
+- Melakukan proses
+ ![alt text](Images/gambar_21.png)
+
+- Sebelum ditambahkan di github
+ ![alt text](Images/gambar_22.png)
+
+- Setelah ditambahkan di github
+ ![alt text](Images/gambar_23.png)
+
+22. Terakhir, lakukan git pull di local utama agar dapet update dari tim lain yang sudah di push ke github :
+
+- Kondisi sebelum di pull  
+ ![alt text](Images/gambar_24.png)
+
+- Kondisi setelah di pull dan dapet update ya  
+ ![alt text](Images/gambar_25.png)
 
  ## README.md ini mencakup langkah-langkah untuk menggunakan Git dari instalasi hingga manajemen branch, push, pull dan clone ke repository remote. Anda dapat menyesuaikannya lebih lanjut sesuai kebutuhan spesifik.
  
